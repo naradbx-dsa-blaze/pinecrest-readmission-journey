@@ -74,6 +74,11 @@ One patient, end to end — `PC-01684`:
 | Worklist | 253 High, 375 Medium, 1,372 Low risk patients |
 | Worklist query latency (Lakebase) | ~4 ms |
 
+## Deck
+
+`deck/Pinecrest Care Coordinator.pdf` (and `.pptx`) — 8-slide summary; every number on it comes from a file in `evidence/`.
+Source: `deck/deck.html` (PDF) and `deck/build_pptx.py` (PPTX).
+
 ## Reproduce
 
 ```bash
