@@ -132,7 +132,6 @@ data_gen/        synthetic raw data generator
 06_app/          Databricks App (Streamlit)
 scripts/         helpers that turn each run into committed text evidence
 evidence/        execution output for every stage, as text
-deck/            the presentation (Nara_FE_Bar_Presentation.pptx); chart figures are in evidence/07
 ```
 
 ## Reproduce
